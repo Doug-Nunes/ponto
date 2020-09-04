@@ -14,7 +14,7 @@
     "core-js": "^2.6.5",
     "moment": "^2.24.0",
     "vue": "^2.6.10",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-momentjs": "^0.1.2",
     "vuejs-smart-table": "0.0.5"
   },
